@@ -12,7 +12,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # Data Load
-df=pd.read_csv(r"C:\Users\Amreen\Documents\EDA_PROJECT\Loan_Prediction_Train.csv")
+df=pd.read_csv("Loan_Prediction_Train.csv")
 
 #--------------------------------------------------------------------
 
