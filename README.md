@@ -17,3 +17,7 @@ Outliers
 Bar & Pie charts
 Distribution
 Correlation heatmap
+
+# Live Application
+You can access and explore my Bank Loan Data Analysis Application through link
+https://bankloandataanalysisrepo-f87gvupiebb5stpvkq9fvf.streamlit.app/
