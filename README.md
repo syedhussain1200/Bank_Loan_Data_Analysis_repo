@@ -7,7 +7,7 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
-# Satatistics Analysis
+# Statistics Analysis
 Mean & Median
 Standard Devaition
 Skewness
