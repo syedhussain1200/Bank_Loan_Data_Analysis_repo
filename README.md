@@ -7,6 +7,7 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
+Streamlit
 # Statistics Analysis
 Mean & Median
 Standard Devaition
